@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018627269709",
+    "project_id": "cldc-9aeb8",
+    "storage_bucket": "cldc-9aeb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018627269709:android:8da2d2cdc14d8f02bce804",
+        "android_client_info": {
+          "package_name": "com.example.cldc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018627269709-caks3kdhnsr506tpl1jhsiisjon03sna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOp7cy0tHBuiZUk2ijjygAecnSyHmk6cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018627269709-caks3kdhnsr506tpl1jhsiisjon03sna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
